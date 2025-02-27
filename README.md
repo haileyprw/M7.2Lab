@@ -1,8 +1,7 @@
-# web-dev-starter
+# M7.2 Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is lab designated to work on formatting in CSS. The purpose of this lab is to
+get more comfortable using CSS features such as flexbox, grid, floating, and positioning.
 
 ## Getting Started
 
